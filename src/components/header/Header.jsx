@@ -1,6 +1,7 @@
 import React from 'react'
 import CTA from './CTA'
 import ME from '../../assets/me.png'
+import HeaderSocials from './HeaderSocials'
 
 
 function Header() {
@@ -11,6 +12,7 @@ function Header() {
         <h1>Luis Palacios Gutiérrez</h1>
         <h5 className="text-light">Fullstack Developer</h5>
         <CTA/>
+        <HeaderSocials/>
 
         <div className="me">
           <img src={ME} alt="me" />
