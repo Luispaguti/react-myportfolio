@@ -1,6 +1,7 @@
 import React from 'react'
 import {BsLinkedin} from 'react-icons/bs'
 import {AiFillGithub} from 'react-icons/ai'
+import './header.css'
 
 function HeaderSocials() {
   return (
