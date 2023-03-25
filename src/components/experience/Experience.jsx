@@ -15,14 +15,14 @@ function Experience() {
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
-            <h4>HTML</h4>
+            <h4>HTML5</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
-            <h4>CSS</h4>
+            <h4>CSS3</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>
@@ -50,10 +50,25 @@ function Experience() {
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
-            <h4>React</h4>
+            <h4>React.js</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+            <h4>Responsive design</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+            <h4>UI/UX</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+            
 
           </div>
         </div>
@@ -79,7 +94,7 @@ function Experience() {
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
-            <h4>Exppress</h4>
+            <h4>Express.js</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>
@@ -93,14 +108,28 @@ function Experience() {
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
-            <h4>Tailwind</h4>
+            <h4>API REST</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
-            <h4>React</h4>
+            <h4>GitHub</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+            <h4>Git</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+            <h4>Node.js</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>

@@ -24,12 +24,12 @@ function About() {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>2+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
             <article className='about__card'>
               <RiFolderOpenLine className='about__icon' />
@@ -39,7 +39,7 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae molestiae quaerat rem, aliquid, accusantium non neque ipsum vel officia quos excepturi reiciendis deleniti hic, dolore ullam quibusdam ab magni. Iure.
+          Web developer and entrepreneur, I have made various web applications and have worked for large companies (MonkeyMarkets and ECODO).My spectrum of skills includes: back-end and front-end development. I also have experience in mobile UX/UI design.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let´s Talk</a>
