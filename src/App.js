@@ -16,11 +16,11 @@ function App() {
         <p>hola</p>
         <Nav/>
         <About/>
-        <Contact/>
         <Experience/>
         <Services/>
         <Portfolio/>
         <Testimonials/>
+        <Contact/>
         <Footer/>
        
     </>
