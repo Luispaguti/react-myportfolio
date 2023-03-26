@@ -13,7 +13,6 @@ function App() {
   return (
     <>
         <Header/>
-        <p>hola</p>
         <Nav/>
         <About/>
         <Experience/>

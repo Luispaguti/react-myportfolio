@@ -40,12 +40,12 @@ function Contact() {
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
-          <form >
+          {/* <form >
             <input type="text" name='name' placeholder='Your Full Name' required />
             <input type="email" name='nemailame' placeholder='Your Email' required />
             <textarea name="message" rows="7" placeholder='Your Message' required ></textarea>
             <button type='submit'className='btn btn-primary'>Send Message</button>
-          </form>
+          </form> */}
         
       </div>
     </section>
