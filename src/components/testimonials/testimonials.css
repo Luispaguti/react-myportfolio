@@ -29,6 +29,14 @@
   margin: 0.8rem auto 0;
 }
 
+
+.client__position {
+  color: var(--color-light);
+  font-weight: 300;
+  display: block;
+
+}
+
 .swiper-pagination-clickable .swiper-pagination-bullet-active{
   background: var(--color-primary);
 }

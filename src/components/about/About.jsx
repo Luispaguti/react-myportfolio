@@ -39,7 +39,7 @@ function About() {
           </div>
 
           <p>
-          Web developer and entrepreneur, I have made various web applications and have worked for large companies (MonkeyMarkets and ECODO).My spectrum of skills includes: back-end and front-end development. I also have experience in mobile UX/UI design.
+          Web developer, lawyer and entrepreneur, I have made various web applications and have worked for large companies (MonkeyMarkets and ECODO).My spectrum of skills includes: back-end and front-end development. I also have experience in mobile UX/UI design.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let´s Talk</a>
