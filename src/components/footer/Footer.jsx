@@ -20,14 +20,14 @@ function Footer() {
       </ul>
 
       <div className='footer__socials'>
-        <a href="https://instagram.com"><BsInstagram/></a>
-        <a href="https://twitter.com"><BsTwitter/></a>
-        <a href="https://twicht.com"><FiTwitch/></a>
+        <a href="https://www.instagram.com/luispagu/"><BsInstagram/></a>
+        <a href="https://twitter.com/Luispaguti"><BsTwitter/></a>
+        <a href="https://www.twitch.tv/luispaguti"><FiTwitch/></a>
       </div>
 
 
       <div className='footer__copyright'>
-        <small>LPG.All rights reserved.</small>
+        <small>Luis Palacios Gutiérrez.All rights reserved.</small>
 
       </div>
     </footer>
