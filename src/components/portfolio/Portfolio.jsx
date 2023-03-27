@@ -36,7 +36,7 @@ function Portfolio() {
           <img src={IMG6} alt=""/>
           <h3>React Portfolio Website</h3>
           <a href='https://github.com/Luispaguti/react-myportfolio' className='btn'>Github</a>
-          <a href='https://thenextgeneration.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://react-portfolio-lpg.vercel.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio_item-image"></div>
@@ -50,7 +50,7 @@ function Portfolio() {
           <div className="portfolio_item-image"></div>
 
           <img src={IMG5} alt=""/>
-          <h3>It is an a Second-hand buying and selling application, where you cand post your products and find those in which you are interested.</h3>
+          <h3>It is an a Second-hand buying and selling application, where you can post your products and find those in which you are interested.</h3>
           <a href='https://www.loom.com/share/ebe2adea283443ff83f60d2d72c3daf0' className='btn'>Github</a>
           <a href='https://github.com/palacios-gonzalez/another-life' className='btn btn-primary' target='_blank'>Demo</a>
         </article>

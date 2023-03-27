@@ -25,7 +25,7 @@ const data = [
   avatar:Bor,
   name:'Borja Muñoz',
   position:"Founder of Solarchain",
-  review: 'Luis very carefully recognized our needs and understood the way our company and customer service function.It’s been a pleasure working with him, and we look forward to continuing this partnership further',
+  review: 'Luis very carefully recognized our needs and understood the way our company and customer service working.It’s been a pleasure to work with him, and we look forward to continuing this partnership further',
 },
 {
   avatar:Andrea,

@@ -21,11 +21,11 @@ function Services() {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Create a real estate rental website!.</p>
+              <p> Create a real estate rental website.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Create a website for your online store!</p>
+              <p>Create a website for your online store.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
@@ -33,7 +33,7 @@ function Services() {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>And many more! Without using templates and everything completely customizable.</p>
+              <p>And many more. Without using templates and everything completely customizable.</p>
             </li>
           </ul>
         </article>
@@ -62,7 +62,7 @@ function Services() {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Help to develop that web application you've always wanted!</p>
+              <p>Help to develop that web application you've always wanted.</p>
             </li>
           </ul>
         </article>
@@ -82,7 +82,7 @@ function Services() {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Conocimiento actualizado de ley.</p>
+              <p>Updated knowledge of law.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
